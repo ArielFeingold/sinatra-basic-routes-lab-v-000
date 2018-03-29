@@ -6,4 +6,8 @@ class App < Sinatra::Base
     "My name is "
     # erb :'name/index'
   end
+
+  get /hometown do
+    
+  end
 end
