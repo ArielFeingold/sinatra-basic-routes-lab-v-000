@@ -7,7 +7,7 @@ class App < Sinatra::Base
     # erb :'name/index'
   end
 
-  get /hometown do
-    
+  get '/hometown' do
+
   end
 end
